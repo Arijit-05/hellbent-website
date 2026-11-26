@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="58" fill="#0A0B0C" stroke="#FFE600" stroke-width="4"/>
+  <!-- Outer left plate -->
+  <path d="M16 49C12 49 10 52 10 60C10 68 12 71 16 71V49Z" fill="#FFE600"/>
+  <!-- Middle left plate -->
+  <path d="M29 37C21 37 19 45 19 60C19 75 21 83 29 83V37Z" fill="#FFE600"/>
+  <!-- H left pillar + crossbar + H right pillar -->
+  <path d="M49 24C37 24 33 38 33 60C33 82 37 96 49 96V68H71V96C83 96 87 82 87 60C87 38 83 24 71 24V52H49V24Z" fill="#FFE600"/>
+  <!-- Middle right plate -->
+  <path d="M91 37C99 37 101 45 101 60C101 75 99 83 91 83V37Z" fill="#FFE600"/>
+  <!-- Outer right plate -->
+  <path d="M104 49C108 49 110 52 110 60C110 68 108 71 104 71V49Z" fill="#FFE600"/>
+</svg>
+
